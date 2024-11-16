@@ -49,5 +49,3 @@ This application/project was created as a submission to my Web Technologies Cour
 ## Discussions/Takeaways
 - I learnt that request parameters alway return values as strings
 
-## Contact
-- GitHub [@EMA-Wolf](https://github.com/EMA-Wolf)
